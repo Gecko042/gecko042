@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there👋
+
+- 🤔 I’m a so-called robotics enthusiats
 
 <!--
 **Gecko042/Gecko042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
