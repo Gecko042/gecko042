@@ -1,5 +1,5 @@
 ## Hi there! 🤖👋
-🤔 I’m a so-called robotics enthusiats with plenty of trial and error (and coffee)!
+🤔 I’m a so-called amateur robotics enthusiats embarking on a wild journey of DIY tech and quirky experiments.
 
 ### What I'm Up To
 - **Learning by Doing:**
