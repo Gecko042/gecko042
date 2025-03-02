@@ -8,7 +8,7 @@
 - **Building Cool Stuff:**  
   🦾 I'm trying to assemble a SO-100 arm and deploy some hands-on trainings on it, with plenty of trial and error (and coffee)!
 
-- **Building Cool Stuff:**  
+- **Having Some Fun:**  
   🎮 I'm a typical otaku who enjoys animes and games in my spare time(especially those made by Type Moon and FromSoftware)
 
 ---
