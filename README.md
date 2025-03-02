@@ -13,7 +13,7 @@
 
 ### Let's Connect!
 
-I love collaborating on offbeat projects, sharing ideas, or even just geeking out about the latest anime twist. If you have a cool idea or just want to chat, drop me an issue or reach out at **XXX**.
+I love collaborating on projects, sharing ideas, or even just geeking out about the latest animes or games. If you have a cool idea or just want to chat, feel free to reach out to me on any SNS.
 
-Thanks for stopping by my GitHub space—let’s build something extraordinary together!
+Thanks for stopping by my GitHub space🥸—let’s build something extraordinary together!
   
