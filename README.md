@@ -1,18 +1,19 @@
-## Hi there👋
+## Hi there! 🤖👋
+🤔 I’m a so-called robotics enthusiats with plenty of trial and error (and coffee)!
 
-- 🤔 I’m a so-called robotics enthusiats
+### What I'm Up To
+- **Learning by Doing:**
+  🦿 I'm starting from the basics of Deep Learning and Reinforcement Learning. Every bug and breakthrough is a lesson in disguise.
+  
+- **Building Cool Stuff:**  
+  🦾 I'm trying to assembling a SO-100 arm and deploy some hands-on training on it, with plenty of trial and error (and coffee)!
 
-<!--
-**Gecko042/Gecko042** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Let's Connect!
+
+I love collaborating on offbeat projects, sharing ideas, or even just geeking out about the latest anime twist. If you have a cool idea or just want to chat, drop me an issue or reach out at **XXX**.
+
+Thanks for stopping by my GitHub space—let’s build something extraordinary together!
+  
