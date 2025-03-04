@@ -8,6 +8,9 @@
 - **Building Cool Stuff:**  
   🛠️ I'm trying to assemble a SO-100 arm and deploy some hands-on trainings on it, with plenty of trial and error (and coffee)!
 
+- **Following New Trends:**
+  🧐 I'm updating a weekly robotics trends report on my blog, covering brilliant projects, innovative methods and other interesting topics.
+
 - **Having Some Fun:**  
   🎮 I'm a typical otaku who enjoys animes and games in my spare time (especially those made by Type Moon and FromSoftware)
 
