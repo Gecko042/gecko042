@@ -6,6 +6,8 @@
 
 🤔 I’m a so-called amateur robotics enthusiast, embarking on a wild journey of DIY tech and quirky experiments.
 
+---
+
 ### What I'm Up To
 - **Learning by Doing:**  
   🤓 I'm starting from the basics of MPC Control and Reinforcement Learning. Every bug and breakthrough is a lesson in disguise.
