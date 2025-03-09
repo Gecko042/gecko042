@@ -2,9 +2,9 @@
 ## Hi there! 🤖👋
 
 ### Who am I
-🤯 __Useless Engineer at Hikikomori Co., Ltd__ | __Ex-Intern at My Own Bedroom__ | __Distinguished alumnus at Jialidun University__
+🤯 Useless Engineer at Hikikomori Co., Ltd | Ex-Intern at My Own Bedroom | Distinguished alumnus at Jialidun University
 
-🤔 I’m a so-called amateur robotics enthusiast, embarking on a wild journey of DIY tech and quirky experiments.
+🤔 __Jokes aside__...I’m a so-called amateur robotics enthusiast, embarking on a wild journey of DIY tech and quirky experiments.
 
 ---
 
