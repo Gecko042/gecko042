@@ -2,7 +2,7 @@
 ## Hi there! 🤖👋
 
 ### Who am I
-🤯 Useless Engineer at Hikikomori Co., Ltd | Ex-Intern at My Own Bedroom | Distinguished alumnus at Jialidun University
+🤯 Useless Engineer at Hikikomori Co., Ltd | Ex-Intern at My Own Bedroom | Distinguished Alumnus at Jialidun University
 
 🤔 __Jokes aside__...I’m a so-called amateur robotics enthusiast, embarking on a wild journey of DIY tech and quirky experiments.
 
