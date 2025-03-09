@@ -1,6 +1,6 @@
 <h1 align="center">
   Hi there, I'm Gecko_42! 🤖👋<br>
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGecko042&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGecko042&count_bg=%231941CF&title_bg=%23D7D528&icon=niconico.svg&icon_color=%23868080&title=Page+Viewers&edge_flat=false"/></a>
   <img alt="GitHub User's stars" src="https://img.shields.io/github/stars/Gecko042">
 	<img alt="GitHub followers" src="https://img.shields.io/github/followers/Gecko042">
 </h1>
