@@ -2,7 +2,7 @@
 ## Hi there! 🤖👋
 
 ### Who am I
-🤯 __Useless Engineer at Hikikomori Co., Ltd__|__Ex-Intern at My Own Bedroom__|__World-Class Expert in Procrastination & Coffee Consumption__|__Alumnus at Jialidun University(aka 家里蹲大学)__
+🤯 __Useless Engineer at Hikikomori Co., Ltd__ | __Ex-Intern at My Own Bedroom__ | __Distinguished alumnus at Jialidun University__
 
 🤔 I’m a so-called amateur robotics enthusiast, embarking on a wild journey of DIY tech and quirky experiments.
 
