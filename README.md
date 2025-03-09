@@ -1,6 +1,9 @@
 
 ## Hi there! 🤖👋
 
+### Who am I
+🤯 Useless Engineer at Hikikomori Co., Ltd  |  Alumnus at Jialidun University
+
 🤔 I’m a so-called amateur robotics enthusiast, embarking on a wild journey of DIY tech and quirky experiments.
 
 ### What I'm Up To
